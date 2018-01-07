@@ -1,5 +1,8 @@
-# bscoe-elec-3-m1t8
+# Terminal Hacker
+bscoe-elec-3-m1t8
 Terminal Hacker (Unity WebGL Build) Team 8 
+
+#
 
 (Hacker.cs) Main code of the game
 
